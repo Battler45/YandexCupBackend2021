@@ -1,0 +1,2 @@
+Запуск сервера на Python: python3 winner_server.py input.txt
+Вместо python3 в некоторых системах может использоваться python.
